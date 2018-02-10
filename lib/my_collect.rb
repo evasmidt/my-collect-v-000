@@ -1,7 +1,7 @@
 
 def my_collect(array)
 i = 0
-
+collect = []
 my_collect(name) do |name|
 
     name.split(" ").first
